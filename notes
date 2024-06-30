@@ -1,0 +1,62 @@
+Google, Vonage Call Center, Bundle portal
+
+Google allows them to do advertisements
+
+VCC allows them to make phone calls
+
+Bundle is provided to call center to put in orders
+
+All the data comes to Domo
+
+Business model deals with ISPs - Spectrum, Comcast, AT&T, Earthlink, Frontier, Optimum
+
+Sell:
+
+	- Internet
+	- Mobile Phone
+	- Home Phone
+	- TV
+
+Home security providers are things like ADT, Vivint, and Alder
+
+Digital distributions - Advertising in google which generates a phone call to our call center
+
+Retail distribution - Verizon and other retail shops that we sell with
+
+Affiliate distribution - Referrals
+
+Other Call Center Distribution
+
+Create dashboard that the program manager can create using their data
+
+If there is a Frontier goal of 1000, the program manager can identify how many sales are necessary from each distribution model.
+
+Program Manager:
+
+    - Goes over the Goal
+    - Goes over the gross profit and loss of the model
+    - Profit is the revenue as there is no overhead.
+        - Commission for selling digital could be $500, Cost of selling it could be $150, meaning the profit would be $350.
+        - For other channels, commission does not change, but the costs could be different.
+
+- Create Architectural Diagram so you can scale a project up
+- Just something simple
+- Helps to set me apart from other developers as it helps with communication of code
+- Also similar to how companies will give you your information
+- Create strong documentation for other users to be able to use it.
+
+- Monetizing the project:
+    - Sell ad space onto the website (Much easier to do than on a website than a mobile app)
+    - Premium Users
+
+- On AWS, to practice:
+    - Build ETLs using AWS Glue
+    - Connect with the Census Data
+    - Work on fetching data from that dataset
+    - Put it into S3
+    - Do a deep dive into the database services they have
+    - Understand the technology and capability of the platform
+
+- On AI:
+    - How do you leverage AI to accelerate your current projects?
+    
